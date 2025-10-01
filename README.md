@@ -1,16 +1,33 @@
-## Hi there 👋
+## About me
 
-<!--
-**engetschwiler/engetschwiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, it's Yves 👋!
 
-Here are some ideas to get you started:
+I'm a web and application developer, and speaker based in Vevey, Switzerland.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+Working at [bee interactive](https://bee-interactive.ch) crafting solutions for the web using Laravel. I'm also available for consulting and speaking.
+
+### Tech Stack
+
+- Laravel
+- PHP
+- AlpineJS
+- Livewire
+- Tailwind CSS
+
+### Experience
+
+Web & applications development since 2002 - Senior web developer with 20+ years of experience specializing in modern web technologies.
+
+### Find me on
+
+- [Github](https://github.com/engetschwiler)
+- [Pinkary](https://pinkary.com/@interactive)
+- [Twitter](https://x.com/yvesdesign)
+- [Instagram](https://instagram.com/derailleurch)
+- [LinkedIn](https://www.linkedin.com/in/yves-engetschwiler/)
+
+### Interests
+
+When I'm not wrestling with semicolons and finals, you'll find me cycling and walking around the mountains of Switzerland.
